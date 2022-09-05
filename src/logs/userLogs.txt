@@ -7,3 +7,5 @@ El usuario ingreso a la ruta: /
 El usuario ingreso a la ruta: /admin?user=karen
 El usuario ingreso a la ruta: /admin?user=karen
 El usuario ingreso a la ruta: /admin?user=karen
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /favicon.ico
